@@ -53,7 +53,7 @@ input {
 }
 
 .username {
-    background: url("../assets/person.png") no-repeat;
+    background: url("../assets/person.png") no-repeat 10px;
     background-size: 30px;
     margin: 5px;
     padding: 10px 10px 10px 40px;
@@ -61,7 +61,7 @@ input {
 }
 
 .password {
-    background: url("../assets/ic_lock.png") no-repeat;
+    background: url("../assets/ic_lock.png") no-repeat 10px;
     background-size: 25px;
     margin: 5px;
     padding: 10px 10px 10px 40px;
